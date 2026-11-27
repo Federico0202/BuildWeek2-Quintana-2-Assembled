@@ -72,8 +72,8 @@ Questo repository contiene la documentazione, gli script, gli exploit e i report
 ## 👥 Team di Progetto e Contributi
 La squadra **Quintana 2** ha collaborato alla realizzazione delle attività di penetration testing e alla stesura dei report tecnici suddividendo i compiti come segue:
 
-* **Danilo** ([@duzzi999](https://github.com/duzzi999)) e **Riccardo Alessandro** ([@riccardoalessandro27](https://github.com/riccardoalessandro27)): `Web Application Exploit SQLi/Giorno 1.pdf` — Traccia del Giorno 1 (SQL Injection).
-* **Federico Capranica** ([@Federico0202](https://github.com/Federico0202)) e **Donna** ([@donnarachele](https://github.com/donnarachele)): `Web Application Exploit XSS/Giorno 2.pdf` — Traccia del Giorno 2 (Stored XSS).
+* **Danilo** ([@duzzi999](https://github.com/duzzi999)) e **Riccardo Alessandro** ([@riccardoalessandro27](https://github.com/riccardoalessandro27)): `Web Application Exploit SQLi/Giorno 1.pdf` — Traccia del Giorno 1 (SQL Injection) e relativo Bonus.
+* **Federico Capranica** ([@Federico0202](https://github.com/Federico0202)) e **Donna** ([@donnarachele](https://github.com/donnarachele)): `Web Application Exploit XSS/Giorno 2.pdf` — Traccia del Giorno 2 (Stored XSS) e relativi Extra Facoltativi (Bonus).
 * **Alessandro Reinaudi** ([@alessandroreinaudi](https://github.com/alessandroreinaudi)): `Adversarial AI - LLM Exploit/chatBot3.py`, `Adversarial AI - LLM Exploit/Giorno 3.pdf`, `Adversarial AI - LLM Exploit/Risoluzione bot` — Traccia del Giorno 3 (Adversarial AI - LLM Exploit).
 * **Riccardo Alessandro** ([@riccardoalessandro27](https://github.com/riccardoalessandro27)): `Exploit Metasploitable con Metasploit/Giorno 4.pdf` — Traccia del Giorno 4 (Exploit Metasploitable con Metasploit).
 * **Renato Bozzuffi** ([@Renato1395](https://github.com/Renato1395)): `Exploit Windows con Metasploit/Giorno 5.pdf` — Traccia del Giorno 5 (Exploit Windows con Metasploit).
