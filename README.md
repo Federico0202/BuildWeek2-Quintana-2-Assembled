@@ -77,4 +77,4 @@ La squadra **Quintana 2** ha collaborato alla realizzazione delle attività di p
 * **Riccardo Alessandro** ([@riccardoalessandro27](https://github.com/riccardoalessandro27)): `Exploit Metasploitable con Metasploit/Giorno 4.pdf` — Traccia del Giorno 4 (Exploit Metasploitable con Metasploit).
 * **Renato Bozzuffi** ([@Renato1395](https://github.com/Renato1395)): `Exploit Windows con Metasploit/Giorno 5.pdf` — Traccia del Giorno 5 (Exploit Windows con Metasploit).
 * **Stefano Sinacori** ([@StefanoSin](https://github.com/StefanoSin)): Attività relative alle tre CTF.
-* **Lavoro di Gruppo (Tutti):** Stesura del report tecnico finale di Build Week 2, raccolta delle evidenze e validazione degli exploit  
+* **Lavoro di Gruppo (Tutti):** `Report Finale/Report Build Week 2 - Quintana 2 Assembled.pdf` — Stesura del report tecnico finale di Build Week 2, raccolta delle evidenze e validazione degli exploit.
