@@ -77,5 +77,8 @@ La squadra **Quintana 2** ha collaborato alla realizzazione delle attività di p
 * **Alessandro Reinaudi** ([@alessandroreinaudi](https://github.com/alessandroreinaudi)): `Adversarial AI - LLM Exploit/chatBot3.py`, `Adversarial AI - LLM Exploit/Giorno 3.pdf`, `Adversarial AI - LLM Exploit/Risoluzione bot` — Traccia del Giorno 3 (Adversarial AI - LLM Exploit).
 * **Riccardo Alessandro** ([@riccardoalessandro27](https://github.com/riccardoalessandro27)): `Exploit Metasploitable con Metasploit/Giorno 4.pdf` — Traccia del Giorno 4 (Exploit Metasploitable con Metasploit).
 * **Renato Bozzuffi** ([@Renato1395](https://github.com/Renato1395)): `Exploit Windows con Metasploit/Giorno 5.pdf` — Traccia del Giorno 5 (Exploit Windows con Metasploit).
-* **Stefano Sinacori** ([@StefanoSin](https://github.com/StefanoSin)): Attività relative alle tre CTF.
+* **Stefano Sinacori** ([@StefanoSin](https://github.com/StefanoSin)): Attività relative alle tre CTF:
+  * `Bonus - Jangow 01 - CTF  Facile/CTF Jangow.pdf`
+  * `Bonus Empire Lupin One - CTF Media/CTF Lupin.pdf`
+  * `Bonus BlackBox Epicode (Harry Potter) - CTF difficile/CTF Harry Potter.pdf`
 * **Lavoro di Gruppo (Tutti):** `Report Finale/Report Build Week 2 - Quintana 2 Assembled.pdf` — Stesura del report tecnico finale di Build Week 2, raccolta delle evidenze e validazione degli exploit.
