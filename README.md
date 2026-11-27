@@ -71,8 +71,10 @@ Questo repository contiene la documentazione, gli script, gli exploit e i report
 ## 👥 Team di Progetto e Contributi
 La squadra **Quintana 2** ha collaborato alla realizzazione delle attività di penetration testing e alla stesura dei report tecnici suddividendo i compiti come segue:
 
-* **Federico Capranica** (`@Federico0202`): *[Inserisci qui i file/attività specifiche svolte]*
-* **[Nome Cognome Teammate 2]** (`@username`): *[Inserisci qui i file/attività specifiche svolte]*
-* **[Nome Cognome Teammate 3]** (`@username`): *[Inserisci qui i file/attività specifiche svolte]*
-* **[Nome Cognome Teammate 4]** (`@username`): *[Inserisci qui i file/attività specifiche svolte]*
-* **Lavoro di Gruppo (Tutti):** Stesura del report tecnico finale di Build Week 2, raccolta delle evidenze e validazione degli exploit.  
+* **Danilo** ([@duzzi999](https://github.com/duzzi999)) e **Riccardo Alessandro** ([@riccardoalessandro27](https://github.com/riccardoalessandro27)): `Web Application Exploit SQLi/Giorno 1.pdf` — Traccia del Giorno 1 (SQL Injection).
+* **Federico Capranica** ([@Federico0202](https://github.com/Federico0202)) e **Donna** ([@donnarachele](https://github.com/donnarachele)): `Web Application Exploit XSS/Giorno 2.pdf` — Traccia del Giorno 2 (Stored XSS).
+* **Alessandro Reinaudi** ([@alessandroreinaudi](https://github.com/alessandroreinaudi)): `Adversarial AI - LLM Exploit/chatBot3.py`, `Adversarial AI - LLM Exploit/Giorno 3.pdf`, `Adversarial AI - LLM Exploit/Risoluzione bot` — Traccia del Giorno 3 (Adversarial AI - LLM Exploit).
+* **Riccardo Alessandro** ([@riccardoalessandro27](https://github.com/riccardoalessandro27)): `Exploit Metasploitable con Metasploit/Giorno 4.pdf` — Traccia del Giorno 4 (Exploit Metasploitable con Metasploit).
+* **Renato Bozzuffi** ([@Renato1395](https://github.com/Renato1395)): `Exploit Windows con Metasploit/Giorno 5.pdf` — Traccia del Giorno 5 (Exploit Windows con Metasploit).
+* **Stefano Sinacori** ([@StefanoSin](https://github.com/StefanoSin)): Attività relative alle tre CTF.
+* **Lavoro di Gruppo (Tutti):** Stesura del report tecnico finale di Build Week 2, raccolta delle evidenze e validazione degli exploit  
