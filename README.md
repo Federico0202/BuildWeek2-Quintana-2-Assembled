@@ -54,10 +54,11 @@ Questo repository contiene la documentazione, gli script, gli exploit e i report
     2. Estrarre le impostazioni di rete della macchina compromessa.
     3. Verificare la presenza di webcam attive.
     4. Acquisire uno screenshot del desktop della vittima.
-* **🚀 Bonus (CTF Black-Box):**
+
+### 🚀 Bonus (CTF Black-Box):
   * **Jangow 01 (Facile):** Compromissione completa ed escalation dei privilegi fino a `root` in modalità Black-Box pura (senza consultare walkthrough online).
   * **Empire Lupin One (Media):** Enumerazione avanzata e privilege escalation fino a `root` in modalità Black-Box pura.
-
+  * **BlackBox Epicode - Harry Potter (Difficile):** Analisi OSINT (relazione tra il dipendente infedele Luca e Milena) e compromissione di un server sabotato per riprenderne il controllo e ripristinare i servizi alterati.
 ---
 
 ## 🛠️ Strumenti e Tecnologie Utilizzate
@@ -77,4 +78,4 @@ La squadra **Quintana 2** ha collaborato alla realizzazione delle attività di p
 * **Riccardo Alessandro** ([@riccardoalessandro27](https://github.com/riccardoalessandro27)): `Exploit Metasploitable con Metasploit/Giorno 4.pdf` — Traccia del Giorno 4 (Exploit Metasploitable con Metasploit).
 * **Renato Bozzuffi** ([@Renato1395](https://github.com/Renato1395)): `Exploit Windows con Metasploit/Giorno 5.pdf` — Traccia del Giorno 5 (Exploit Windows con Metasploit).
 * **Stefano Sinacori** ([@StefanoSin](https://github.com/StefanoSin)): Attività relative alle tre CTF.
-* **Lavoro di Gruppo (Tutti):** Stesura del report tecnico finale di Build Week 2, raccolta delle evidenze e validazione degli exploit  
+* **Lavoro di Gruppo (Tutti):** `Report Finale/Report Build Week 2 - Quintana 2 Assembled.pdf` — Stesura del report tecnico finale di Build Week 2, raccolta delle evidenze e validazione degli exploit.
