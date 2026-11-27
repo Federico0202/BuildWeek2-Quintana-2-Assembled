@@ -57,7 +57,7 @@ Questo repository contiene la documentazione, gli script, gli exploit e i report
 * **🚀 Bonus (CTF Black-Box):**
   * **Jangow 01 (Facile):** Compromissione completa ed escalation dei privilegi fino a `root` in modalità Black-Box pura (senza consultare walkthrough online).
   * **Empire Lupin One (Media):** Enumerazione avanzata e privilege escalation fino a `root` in modalità Black-Box pura.
-
+  * **BlackBox Epicode - Harry Potter (Difficile):** Analisi OSINT (relazione tra il dipendente infedele Luca e Milena) e compromissione di un server sabotato per riprenderne il controllo e ripristinare i servizi alterati.
 ---
 
 ## 🛠️ Strumenti e Tecnologie Utilizzate
